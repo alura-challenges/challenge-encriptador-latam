@@ -16,9 +16,9 @@
 1) Publicar el proyecto en GitHub
 2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
 3) Utiliza el tema/topic "**challengeencriptadoraluralatam**"
-
-Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeencriptadoraluralatam**".
+     
+     Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
+e incluye la etiqueta "**challengeencriptadoraluralatam**".
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
