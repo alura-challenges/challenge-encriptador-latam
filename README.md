@@ -8,7 +8,6 @@
 
 #### Marca este proyecto con una estrella ⭐
 #### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one) 📃
 
 ## ¿Cómo incluir mi proyecto en este Challenge?
 ---
